@@ -1,5 +1,5 @@
 # Complete Commands List
-
+*As of 12/29/20, and has not been updated, full list in the help command
 # Moderation
 `kick <user>`  
 `ban <user>`  
@@ -19,6 +19,8 @@
 `groupinfo`  
 `whois <user>`  
 `setgroup <id>`  
+`verify`  
+`getroles`  
 
 # Miscellaneous
 `ping`  
