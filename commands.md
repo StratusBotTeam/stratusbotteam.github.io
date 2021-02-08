@@ -39,7 +39,7 @@
   robloxstatus  
   say <text>  
   serverinfo  
-  setrank <user> <rankid/name>  
+  setrank <user> <rankid/name>   
   shout <text>  
   slowmode <seconds>  
   suggest <suggestion>  
