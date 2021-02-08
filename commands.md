@@ -1,43 +1,54 @@
 # Complete Commands List
-*As of 12/29/20, and has not been updated, full list in the help command
-# Moderation
-`kick <user>`  
-`ban <user>`  
-`slowmode <number>`  
-`purge <amount>`  
+() = optional argument
+<> = required argument
 
-# Roblox
-`setcookie <cookie>`  
-`setsessiontext <text>`  
-`setsessionchannel <channel>`  
-`startsession`  
-`refreshlogin`  
-`promote <user>`  
-`demote <user>`  
-`fire <user>`  
-`shout <text>`  
-`groupinfo`  
-`whois <user>`  
-`setgroup <id>`  
-`verify`  
-`getroles`  
-
-# Miscellaneous
-`ping`  
-`say <text>`  
-`suggest <suggestion>`  
-`invite`  
-`vote`  
-`robloxstatus`  
-`serverinfo`  
-`uptime`  
-
-# Fun
-`wink`  
-`joke`  
-`pop`  
-`fnshop`  
-`minecraftachievement <text>`  
-`meme`  
+  8ball <question>
+  advice
+  afk (reason)
+  avatar (user)
+  balance
+  ban <user> (reason)
+  botinfo
+  cat
+  coinflip
+  daily
+  demote <user>
+  devjoke
+  distort <user> <amount>
+  dog
+  exile <user>
+  fire <user>
+  fnshop
+  getroles
+  getshout
+  giveawaycreate
+  giveawayend
+  giveawayreroll
+  help
+  invite
+  kick <user> (reason)
+  meme 
+  minecraftachievement <text>
+  owoify <text>
+  ping
+  promote <user>
+  purge <amount>
+  redeem <code>
+  referralcode <user>
+  reportbug <bug>
+  robloxstatus
+  say <text>
+  serverinfo
+  setrank <user> <rankid/name>
+  shout <text>
+  slowmode <seconds>
+  suggest <suggestion>
+  triggered
+  unafk
+  uptime
+  userinfo <user>
+  verify
+  whois <user>
+  
 
 > Next: [Credits](/credits)
